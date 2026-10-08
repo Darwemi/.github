@@ -16,15 +16,25 @@ Somos una agencia técnica enfocada en el diseño de plataformas, sistemas de ge
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ## 🌐 Enlaces y Contacto
 
-¿Interesado en optimizar tu infraestructura o automatizar procesos? Hablemos:
+¿Interesado en optimizar tu infraestructura o automatizar procesos? Puedes contactarnos o seguir nuestro trabajo en:
 
 - 🌍 **Sitio Web:** [dkescorpio.com.ve](https://www.dkescorpio.com.ve/)
 - ✉️ **Correo:** [proyectos@dkescorpio.com.ve](mailto:proyectos@dkescorpio.com.ve)
+
+### 📱 Nuestras Redes Sociales
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+- 💼 **LinkedIn:** [DKESCORPIO](https://www.linkedin.com/company/dkescorpio) *(o /in/dkescorpio)*
+- 🎵 **TikTok:** [@dkescorpio](https://www.tiktok.com/@dkescorpio)
+- 📌 **Pinterest:** [@dkescorpio](https://www.pinterest.com/dkescorpio)
 - 𝕏 **X (Twitter):** [@dkescorpio](https://x.com/dkescorpio)
 - 📸 **Instagram:** [@dkescorpio](https://instagram.com/dkescorpio)
 
